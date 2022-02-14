@@ -24,5 +24,7 @@ chmod 777 inject
 
 https://github.com/MelonWXD/ELFHooker
 
+https://github.com/android/ndk-samples/tree/main/hello-gl2
+
 
 ![image](img/img.jpg)
