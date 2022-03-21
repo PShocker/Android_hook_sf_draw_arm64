@@ -28,3 +28,8 @@ https://github.com/android/ndk-samples/tree/main/hello-gl2
 
 
 ![image](img/img.jpg)
+
+## Android 12
+该方法并不适用高版本安卓,
+高版本请参考:
+[Magisk注入app并嵌入imgui](https://pshocker.github.io/2022/03/21/Magisk%E6%B3%A8%E5%85%A5app%E5%B9%B6%E5%B5%8C%E5%85%A5imgui/).
